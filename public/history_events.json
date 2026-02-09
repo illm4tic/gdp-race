@@ -1,0 +1,142 @@
+[
+  {
+    "year": 1968,
+    "event": "Japan Becomes 2nd Largest Economy",
+    "event_cn": "日本成为第二大经济体",
+    "description": "Japan surpassed West Germany to become the second-largest economy in the Western world.",
+    "description_cn": "日本超越西德，成为西方世界第二大经济体。",
+    "impact": "Marked the peak of Japan's post-war economic miracle.",
+    "impact_cn": "标志着日本战后经济奇迹进入巅峰阶段。",
+    "image_url": "/images/1968.png"
+  },
+  {
+    "year": 1973,
+    "event": "First Oil Crisis",
+    "event_cn": "第一次石油危机",
+    "description": "OPEC declared an oil embargo, leading to a fourfold increase in oil prices.",
+    "description_cn": "欧佩克宣布石油禁运，导致油价暴涨四倍。",
+    "impact": "Caused global stagflation and ended the post-war long boom in many Western nations.",
+    "impact_cn": "引发全球滞胀，终结了许多西方国家的战后长期繁荣。",
+    "image_url": "/images/1973.png"
+  },
+  {
+    "year": 1978,
+    "event": "China's Reform and Opening-up",
+    "event_cn": "中国改革开放",
+    "description": "The Third Plenary Session of the 11th CPC Central Committee marked the beginning of economic reforms.",
+    "description_cn": "十一届三中全会召开，开启了中国经济体制改革的新时期。",
+    "impact": "Set the stage for China's multi-decade rapid growth and eventual entry into the Top 10.",
+    "impact_cn": "为中国数数十年的高速增长及最终进入全球前十奠定了基础。",
+    "image_url": "/images/1978.png"
+  },
+  {
+    "year": 1985,
+    "event": "Plaza Accord",
+    "event_cn": "广场协议",
+    "description": "G5 nations agreed to depreciate the US dollar against the Japanese Yen and German Mark.",
+    "description_cn": "五国集团达成协议，协同干预外汇市场，使美元对日元和马克贬值。",
+    "impact": "Led to a sharp rise in Japan's GDP in dollar terms, but also planted seeds for its asset bubble.",
+    "impact_cn": "导致日本以美元计价的 GDP 急剧上升，但也为后来的资产泡沫埋下了伏笔。",
+    "image_url": "/images/1985.png"
+  },
+  {
+    "year": 1990,
+    "event": "German Reunification",
+    "event_cn": "两德统一",
+    "description": "West and East Germany officially reunified into a single state.",
+    "description_cn": "西德与东德正式合并，实现了国家的统一。",
+    "impact": "Solidified Germany's position as Europe's largest economy and a Top 5 global power.",
+    "impact_cn": "巩固了德国作为欧洲最大经济体和全球前五强的地位。",
+    "image_url": "/images/1990.png"
+  },
+  {
+    "year": 1991,
+    "event": "Dissolution of the Soviet Union",
+    "event_cn": "苏联解体",
+    "description": "The Soviet Union officially ceased to exist, replaced by 15 independent republics.",
+    "description_cn": "苏联正式宣告解体，分裂为 15 个独立共和国。",
+    "impact": "The Soviet Union disappeared from global rankings; Russia emerged as a new entity.",
+    "impact_cn": "苏联从全球经济排名中消失，俄罗斯作为独立实体出现。",
+    "image_url": "/images/1991.png"
+  },
+  {
+    "year": 1995,
+    "event": "Japan's GDP Peak",
+    "event_cn": "日本 GDP 巅峰",
+    "description": "Japan's GDP reached its historical peak relative to the United States (approx. 71%).",
+    "description_cn": "日本 GDP 达到相对于美国历史最高水平（约 71%）。",
+    "impact": "Represented the high-water mark of Japan's economic influence before the 'Lost Decades'.",
+    "impact_cn": "代表了日本在“失去的几十年”之前经济影响力的最高峰。",
+    "image_url": "/images/1995.png"
+  },
+  {
+    "year": 1997,
+    "event": "Asian Financial Crisis",
+    "event_cn": "亚洲金融危机",
+    "description": "A financial crisis that started in Thailand and spread across East and Southeast Asia.",
+    "description_cn": "一场始于泰国的金融危机席卷了东亚和东南亚。",
+    "impact": "Severely impacted the growth of Japan, South Korea, and emerging Asian economies.",
+    "impact_cn": "严重影响了日本、韩国及亚洲新兴经济体的增长。",
+    "image_url": "/images/1997.png"
+  },
+  {
+    "year": 2001,
+    "event": "China Joins WTO",
+    "event_cn": "中国加入世贸组织",
+    "description": "China officially became a member of the World Trade Organization.",
+    "description_cn": "中国正式成为世界贸易组织成员。",
+    "impact": "Accelerated China's integration into global trade, leading to explosive growth.",
+    "impact_cn": "加速了中国融入全球贸易体系，开启了爆发式增长阶段。",
+    "image_url": "/images/2001.png"
+  },
+  {
+    "year": 2008,
+    "event": "Global Financial Crisis",
+    "event_cn": "全球金融危机",
+    "description": "The collapse of Lehman Brothers triggered the most severe global recession since the 1930s.",
+    "description_cn": "雷曼兄弟倒闭引发了自 20 世纪 30 年代以来最严重的全球经济衰退。",
+    "impact": "Significant GDP contraction in the US and Europe; slowed global growth for years.",
+    "impact_cn": "美国和欧洲 GDP 大幅萎缩，全球增长多年放缓。",
+    "image_url": "/images/2008.png"
+  },
+  {
+    "year": 2010,
+    "event": "China Surpasses Japan",
+    "event_cn": "中国超越日本",
+    "description": "China's GDP officially surpassed Japan's, making it the world's second-largest economy.",
+    "description_cn": "中国 GDP 正式超过日本，成为全球第二大经济体。",
+    "impact": "A major shift in global economic power dynamics.",
+    "impact_cn": "全球经济权力格局的重大转变。",
+    "image_url": "/images/2010.png"
+  },
+  {
+    "year": 2020,
+    "event": "COVID-19 Pandemic",
+    "event_cn": "新冠疫情",
+    "description": "The global pandemic caused unprecedented shutdowns and economic contraction worldwide.",
+    "description_cn": "全球范围内的疫情导致前所未有的停摆和经济萎缩。",
+    "impact": "Most major economies saw negative growth; China was one of the few to remain positive.",
+    "impact_cn": "大多数主要经济体出现负增长，中国是少数保持增长的国家之一。",
+    "image_url": "/images/2020.png"
+  },
+  {
+    "year": 2022,
+    "event": "Russia-Ukraine War",
+    "event_cn": "俄乌冲突",
+    "description": "The conflict led to energy crises and high inflation globally.",
+    "description_cn": "冲突引发了全球能源危机和高通胀。",
+    "impact": "Impacted European growth and led to significant shifts in global energy markets.",
+    "impact_cn": "影响了欧洲的增长，并导致全球能源市场的重大转变。",
+    "image_url": "/images/2022.png"
+  },
+  {
+    "year": 2023,
+    "event": "Germany Surpasses Japan",
+    "event_cn": "德国超越日本",
+    "description": "Germany overtook Japan to become the world's third-largest economy.",
+    "description_cn": "德国超过日本，成为全球第三大经济体。",
+    "impact": "Driven by Japan's currency depreciation and Germany's high inflation/nominal growth.",
+    "impact_cn": "主要受日元贬值和德国高通胀/名义增长驱动。",
+    "image_url": "/images/2023.png"
+  }
+]
